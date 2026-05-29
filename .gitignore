@@ -1,0 +1,31 @@
+# Secrets
+.env
+*.env
+*.key
+*.pem
+id_rsa
+id_ed25519
+*_priv.key
+credentials.json
+token.json
+secrets.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Odoo backups
+*.sql
+*.dump
+*.tar.gz
+*.zip
+backups/
+

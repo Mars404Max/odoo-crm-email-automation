@@ -1,0 +1,15 @@
+Subject: Website Lead - Maria Schulz - Test Company
+
+New website consultation request
+
+Name: Maria
+Surname: Schulz
+Email: maria@example.com
+Phone number: +49 000 000000
+Company: Test Company
+Which ERP system is being used in your company?: Odoo
+Interest: CRM
+Message: I would like to request a consultation.
+
+Source: Google Form / c-institute.com
+
